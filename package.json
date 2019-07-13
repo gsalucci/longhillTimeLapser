@@ -1,0 +1,23 @@
+{
+  "name": "timelapser",
+  "version": "1.0.0",
+  "description": "Scarica immagini delle webcam collelonghesi",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.13",
+    "cli-progress": "^1.7.0",
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.2",
+    "date-arithmetic": "^3.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "image-downloader": "^3.3.0",
+    "node-schedule": "^1.2.5",
+    "node.date-time": "^1.2.2"
+  }
+}
